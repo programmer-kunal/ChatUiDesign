@@ -25,41 +25,20 @@ This project showcases multiple chat-related screens with smooth and minimal des
 
 ---
 
-## 📸 Screenshots
+#### 📸 Screenshots
 
-### 🟢 Splash Screen
+| Welcome Screen                                                             | Home Screen                                                                |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ![](screenshots/Screenshot_2026-04-25-20-38-28-913_com.example.chatuidesign.jpg) | ![](screenshots/Screenshot_2026-04-25-20-38-58-251_com.example.chatuidesign.jpg) |
 
-![Splash](screenshots/Screenshot_2026-04-25-20-37-29-472_com.example.chatuidesign.jpg)
+| Update Screen                                                                | Call Screen                                                             |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ![](screenshots/Screenshot_2026-04-25-20-39-45-362_com.example.chatuidesign.jpg) | ![](screenshots/Screenshot_2026-04-25-20-40-46-799_com.example.chatuidesign.jpg) |
 
----
+| Community Screen                                                        |
+| -------------------------------------------------------------------------- |
+| ![](screenshots/Screenshot_2026-04-25-20-40-25-493_com.example.chatuidesign.jpg) |
 
-### 💬 Chat UI
-
-![Chat](screenshots/Screenshot_2026-04-25-20-38-28-913_com.example.chatuidesign.jpg)
-
----
-
-### 👤 Profile UI
-
-![Profile](screenshots/Screenshot_2026-04-25-20-38-58-251_com.example.chatuidesign.jpg)
-
----
-
-### 📞 Calls Screen
-
-![Calls](screenshots/Screenshot_2026-04-25-20-39-45-362_com.example.chatuidesign.jpg)
-
----
-
-### 🌐 Additional UI
-
-![More](screenshots/Screenshot_2026-04-25-20-40-25-493_com.example.chatuidesign.jpg)
-
----
-
-### 🎯 Final Screen
-
-![Final](screenshots/Screenshot_2026-04-25-20-40-46-799_com.example.chatuidesign.jpg)
 
 ---
 
